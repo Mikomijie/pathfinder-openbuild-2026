@@ -69,6 +69,7 @@ All AI calls include Nigerian cultural context — analogies and examples are gr
 ---
 
 ## Project Structure
+```
 pathfinder/
 ├── frontend/
 │   ├── src/
@@ -80,24 +81,14 @@ pathfinder/
 │   │   │   └── dashboard/
 │   │   │       ├── StudentDashboard.jsx
 │   │   │       ├── TeacherDashboard.jsx
-│   │   │       ├── home/
-│   │   │       │   └── Home.jsx
-│   │   │       ├── subjects/
-│   │   │       │   └── Subjects.jsx
 │   │   │       ├── lesson/
-│   │   │       │   ├── TopicsList.jsx
 │   │   │       │   ├── Lesson.jsx
 │   │   │       │   ├── Quiz.jsx
 │   │   │       │   └── LessonComplete.jsx
 │   │   │       ├── flashcards/
-│   │   │       │   ├── FlashcardsHome.jsx
 │   │   │       │   └── Flashcards.jsx
-│   │   │       ├── progress/
-│   │   │       │   └── Progress.jsx
-│   │   │       ├── skills/
-│   │   │       │   └── SkillsHub.jsx
-│   │   │       └── upload/
-│   │   │           └── PDFUpload.jsx
+│   │   │       └── progress/
+│   │   │           └── Progress.jsx
 │   │   ├── services/
 │   │   │   └── openrouter.js
 │   │   └── App.js
@@ -105,8 +96,7 @@ pathfinder/
 │       └── functions/
 │           └── process-pdf/
 │               └── index.ts
-
----
+```
 
 ## Database Schema (Supabase)
 
