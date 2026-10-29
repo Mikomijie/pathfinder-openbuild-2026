@@ -2,7 +2,7 @@
 
 **Adaptive learning platform for neurodivergent Nigerian students**
 
-Built for OPEN//BUILD 2026 by Omijie Michael
+Built for OPEN//BUILD 2026 by Omijie Michael and Teniola Awodire
 
 ---
 
