@@ -2,7 +2,7 @@
 
 **Adaptive learning platform for neurodivergent Nigerian students**
 
-Built for OPEN//BUILD 2026 by Omijie Michael
+Built for OPEN//BUILD 2026 by Omijie Michael and Teniola Awodire
 
 ---
 
@@ -149,7 +149,7 @@ npm start
 
 ## Hackathon
 
-Built for **OPEN//BUILD 2026** — OSCA Ile-Ife Hackathon  
+Built for **OPEN//BUILD 2026** — OSCA Ile-Ife Hackathon  by team winner (Michael Omijie and TEniola Awodire) 
 Submission deadline: October 29, 2026
 
 ---
